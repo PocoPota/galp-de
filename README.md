@@ -1,5 +1,5 @@
 # gulp-de
-gulpでsass、pug、typescript、webpを使うときの開発環境
+gulpでsass、pug、typescript、webpを使うときの開発環境  
 自分用です
 
 ## ファイル構成

@@ -3,7 +3,7 @@ gulpでsass、pug、typescript、webpを使うときの開発環境
 
 ## ファイル構成
 適当()
-`
+``
 project/  
 　├ dist/  
 　├ src/  
@@ -15,4 +15,4 @@ project/
 　├ gulpfile.js  
   ├ package-lock.json  
 　└ package.json
-`
+``

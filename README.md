@@ -17,4 +17,4 @@ project/
 ```
 
 ## 導入手順
-```npm install```
+`npm install`
